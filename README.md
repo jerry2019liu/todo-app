@@ -1,1 +1,1 @@
-This is the to-do-list apps with npm/node.js. 
+This is the to-do-list app with npm/node.js. 
